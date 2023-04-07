@@ -6,6 +6,7 @@
   * `docker pull mcr.microsoft.com/dotnet/runtime-deps:6.0`
 
 # About
+HOW TO DOWNLOAD CHANGES
 
 This image contains the native dependencies needed by .NET. It does not include .NET. It is for [self-contained](https://docs.microsoft.com/dotnet/articles/core/deploying/index) applications.
 
