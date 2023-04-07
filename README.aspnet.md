@@ -7,9 +7,9 @@
 
 # About
 
-Test changes for git desktop
+Test changes for git desktop. Just try it
 
-This image contains the ASP.NET Core and .NET runtimes and libraries and is optimized for running ASP.NET Core apps in production.
+This image contains the ASP.NET for all, not for you, but fot all
 
 Watch [discussions](https://github.com/dotnet/dotnet-docker/discussions/categories/announcements) for Docker-related .NET announcements.
 
